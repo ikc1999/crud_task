@@ -21,6 +21,5 @@ require('connection.php');
                 </div>
             </div>
         </div>
-
     </body>
 </html>
